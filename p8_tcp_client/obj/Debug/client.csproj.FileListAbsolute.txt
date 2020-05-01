@@ -1,0 +1,16 @@
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_client\p8_tcp_client\bin\Debug\p8_tcp_client.exe.config
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_client\p8_tcp_client\bin\Debug\p8_tcp_client.exe
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_client\p8_tcp_client\bin\Debug\p8_tcp_client.pdb
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_client\p8_tcp_client\obj\Debug\client.Form1.resources
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_client\p8_tcp_client\obj\Debug\p8_tcp_client.Properties.Resources.resources
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_client\p8_tcp_client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_client\p8_tcp_client\obj\Debug\p8_tcp_client.exe
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_client\p8_tcp_client\obj\Debug\p8_tcp_client.pdb
+C:\Users\Grzesiek\Desktop\Projekty\zaq\client\p8_tcp_client\bin\Debug\client.exe.config
+C:\Users\Grzesiek\Desktop\Projekty\zaq\client\p8_tcp_client\bin\Debug\client.exe
+C:\Users\Grzesiek\Desktop\Projekty\zaq\client\p8_tcp_client\bin\Debug\client.pdb
+C:\Users\Grzesiek\Desktop\Projekty\zaq\client\p8_tcp_client\obj\Debug\client.Form1.resources
+C:\Users\Grzesiek\Desktop\Projekty\zaq\client\p8_tcp_client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Grzesiek\Desktop\Projekty\zaq\client\p8_tcp_client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Grzesiek\Desktop\Projekty\zaq\client\p8_tcp_client\obj\Debug\client.exe
+C:\Users\Grzesiek\Desktop\Projekty\zaq\client\p8_tcp_client\obj\Debug\client.pdb
